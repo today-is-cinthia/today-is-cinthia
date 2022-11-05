@@ -9,4 +9,4 @@
 - ⚡ Fun fact: I've got 2 baby turtles. Mango and Capuccino 🐢🐢
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=today-is-cinthia&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=today-is-cinthia&&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27">
