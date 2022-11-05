@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=today-is-cinthia&repo=today-is-cinthia&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27">
+
 ### Hi there, my name is cinthia 👋
 
 안녕하세요 여러분, 저는 정수아 입니다 ㅠ ㅠ
