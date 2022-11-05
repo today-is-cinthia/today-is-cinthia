@@ -2,7 +2,6 @@
 
 안녕하세요 여러분, 저는 정수아 입니다 ㅠ ㅠ
 
-Here are some ideas to get you started:
 
 - 🌱 I’m currently learning C# Windows Applications
 - 💬 Ask me anything web development related
