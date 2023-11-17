@@ -6,8 +6,6 @@
 
 
 - 🌱 I’m currently learning C# Windows Applications
-- 💬 Ask me anything web development related
-- 📫 How to reach me: Gmail - cinthiaduarte013@gmail.com 
 - ⚡ Fun fact: I've got 2 baby turtles. Mango and Capuccino 🐢🐢
 
 
