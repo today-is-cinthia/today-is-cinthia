@@ -2,8 +2,9 @@
 
 ### Hi there, my name is cinthia 👋
 
-
-- 🌱 I’m currently learning ASP.NET 
+- 📖 4th year of Computer Engineering
+- 🌱 I’m currently learning ASP.NET
+- 💻 Huge fan of web applications
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=today-is-cinthia&&show_icons=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=1a1b27">
